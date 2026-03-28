@@ -1,0 +1,5 @@
+{
+  "name": "WebLLM AI Code Editor",
+  "description": "Browser-based AI-powered code editor with offline inference using WebLLM, Monaco Editor, and cloud AI fallback.",
+  "requestFramePermissions": []
+}
